@@ -1,0 +1,13 @@
+[2025-05-08 05:13:53] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 14
+[2025-05-08 05:45:39] [security] Failed login attempt for email: youness.el.mesbahy.7@gmail.com in C:\xamppe\htdocs\mediregister\login.php on line 78
+[2025-05-08 05:45:45] [security] Plaintext password used for user ID: 2 in C:\xamppe\htdocs\mediregister\login.php on line 54
+[2025-05-08 05:48:57] [security] Plaintext password used for user ID: 1 in C:\xamppe\htdocs\mediregister\login.php on line 54
+[2025-05-08 05:50:16] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 19
+[2025-05-08 05:50:18] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 19
+[2025-05-08 05:55:57] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 19
+[2025-05-08 06:01:46] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 19
+[2025-05-08 06:14:57] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 19
+[2025-05-08 06:31:13] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 19
+[2025-05-08 07:42:53] [error] Type de fichier non autorisé: doc_681b5441bec12.webp (image/webp) in C:\xamppe\htdocs\mediregister\add-patient.php on line 177
+[2025-05-08 22:08:16] [security] CSRF token validation failed in add-appointment.php in C:\xamppe\htdocs\mediregister\includes\appointments\add-appointment.php on line 19
+[2025-05-08 22:08:16] [error] Tentative d'accès à patient-dashboard.php sans ID valide in C:\xamppe\htdocs\mediregister\patient-dashboard.php on line 19
