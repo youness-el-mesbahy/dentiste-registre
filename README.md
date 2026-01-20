@@ -119,6 +119,15 @@ Roles in the database schema:
 
 Role helpers are located in `includes/auth/auth.php`.
 
+### Demo login credentials
+
+To quickly test the application, use these credentials:
+
+- **Username**: `demo@dentisteregistre.com`
+- **Password**: `123456`
+
+> **⚠️ Security Warning**: These are demo credentials only. Change or remove this account before deploying to production.
+
 ### Demo / seed users
 
 If you imported `db/db.sql`, it inserts sample users into `users`.
@@ -172,7 +181,3 @@ Important notes:
   - Verify credentials in `connection.php` and that MySQL is running.
 - **Permissions error when uploading**
   - Ensure `uploads/` is writable by the web server user.
-
-## License
-
-No license file is currently included in this repository. If you intend to distribute or open-source this project, add a `LICENSE` file.
